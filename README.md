@@ -1,3 +1,3 @@
 # pablo727.github.io
-title: my-board-style-project
-Hi there!
+Title: my_board-style-project
+Description: "A simple project board style using Jekyll."
